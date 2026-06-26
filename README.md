@@ -41,10 +41,10 @@ education:
 
 ## 📊 Stats
 <a href="https://github.com/kabeleh/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kabeleh&show_icons=true&theme=graywhite&hide_rank=true&include_all_commits=true&size_weight=0.5&count_weight=0.5" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kabeleh&show_icons=true&theme=graywhite&hide_rank=true&include_all_commits=true&size_weight=0.5&count_weight=0.5&hide=contribs&custom_title="On GitHub"" />
 </a>
 <a href="https://github.com/kabeleh/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabeleh&layout=compact&langs_count=8&card_width=320&theme=graywhite" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabeleh&layout=compact&langs_count=6&card_width=320&theme=graywhite" />
 </a>
 
 
